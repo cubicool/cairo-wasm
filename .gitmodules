@@ -1,4 +1,4 @@
 [submodule "emsdk"]
 	path = emsdk
 	url = https://github.com/emscripten-core/emsdk.git
-	branch = 3.1.18
+	tag = 3.1.18
